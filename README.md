@@ -6,6 +6,8 @@ To run these examples, you'll need an OpenAI account and associated API key ([cr
 
 Most code examples are written in Python, though the concepts can be applied in any language.
 
+
+
 ## Recently added 🆕 ✨
 
 - [How to format inputs to ChatGPT models](examples/How_to_format_inputs_to_ChatGPT_models.ipynb) [Mar 1st, 2023]
